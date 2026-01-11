@@ -7,7 +7,7 @@
       "segments": [
         {
           "foreground": "#ffbebc",
-          "leading_diamond": "<#ff70a6> \ue200 </>",
+          "leading_diamond": "<#ff70a6> \ue285 </>",
           "properties": {
             "display_host": true
           },
